@@ -1,1 +1,2 @@
-PAra visualizar los cambios es necesario hacer un commit con el mensaje y luego hacer el push
+Para visualizar los cambios es necesario hacer un commit con el mensaje y luego hacer el push
+#Se corrigió la para la PAra por Para.
