@@ -1,0 +1,60 @@
+[33mcommit 5064f9e2b7d0789f1956044ab767a2488f727e3f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Juan Carlos Espinosa Jimenez <jc.ejimenez9276@gmail.com>
+Date:   Wed Mar 9 18:18:08 2022 -0600
+
+    Created script folder and func file modified
+
+[33mcommit 23d0942a373520cda06b48ab085fea07a3014e41[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: JuanCaEspinosa1993 <88261942+JuanCaEspinosa1993@users.noreply.github.com>
+Date:   Wed Mar 9 18:09:14 2022 -0600
+
+    Created Func in js
+
+[33mcommit c48935835db407e8abf07f3857b1a5b44fb5e2ae[m
+Author: Juan Carlos Espinosa Jimenez <jc.ejimenez9276@gmail.com>
+Date:   Wed Mar 9 18:01:52 2022 -0600
+
+    Add file: How import libraries in python
+
+[33mcommit 01449da5279f1ffe957647437a2f78c9e4c77f25[m
+Author: Juan Carlos Espinosa Jimenez <jc.ejimenez9276@gmail.com>
+Date:   Wed Mar 9 17:52:04 2022 -0600
+
+    Deleted mistake License
+
+[33mcommit f06b59e83e8f3a7937e96d1fd527ac0ae9cda651[m
+Merge: 8238bd5 65993c1
+Author: Juan Carlos Espinosa Jimenez <jc.ejimenez9276@gmail.com>
+Date:   Wed Mar 9 17:46:42 2022 -0600
+
+    Merge https://github.com/JuanCaEspinosa1993/Mynewrepo
+
+[33mcommit 65993c1a4573694d11ad805308e61dd02f3a20ff[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: JuanCaEspinosa1993 <88261942+JuanCaEspinosa1993@users.noreply.github.com>
+Date:   Wed Mar 9 17:45:43 2022 -0600
+
+    Created a new license
+
+[33mcommit 8238bd5e6a697bd8fa5671d44c02b99a821905ff[m
+Author: Juan Carlos Espinosa Jimenez <jc.ejimenez9276@gmail.com>
+Date:   Wed Mar 9 17:30:59 2022 -0600
+
+    Created a file.txt
+
+[33mcommit 73e399264430beb1d43585d931e30ea5e96317ae[m
+Author: JuanCaEspinosa1993 <88261942+JuanCaEspinosa1993@users.noreply.github.com>
+Date:   Wed Mar 9 16:27:06 2022 -0600
+
+    Created git ignore
+
+[33mcommit 045508ffaaf4a8430c7cd36d335307a13b59586f[m
+Author: JuanCaEspinosa1993 <88261942+JuanCaEspinosa1993@users.noreply.github.com>
+Date:   Wed Mar 9 16:24:23 2022 -0600
+
+    Added License
+
+[33mcommit 0fe9ac5a9f5ce48d6116395e4cb1bda021d26a8d[m
+Author: JuanCaEspinosa1993 <88261942+JuanCaEspinosa1993@users.noreply.github.com>
+Date:   Wed Mar 9 16:21:24 2022 -0600
+
+    Created README
