@@ -1,0 +1,1 @@
+PAra visualizar los cambios es necesario hacer un commit con el mensaje y luego hacer el push
